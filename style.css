@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 7px;
+    padding: 5px;
+    color: black;
+    font-size: 25px;
+}
+
+header {
+    background-color: rgb(20, 125, 187);
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 img {
+    width: 20px;
+}
+
+h2 {
+    color: red;
+    margin-left: 10px;
+}
+
+footer {
+    background-color: rgb(20, 125, 187);
+    padding: 15px;
+    color: white;
+}
